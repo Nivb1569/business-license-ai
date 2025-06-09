@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.idea/
+
+# Flask specific
+instance/
+.env
+*.log
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Jupyter/Debugging
+.ipynb_checkpoints/
+*.DS_Store
+
+# System files
+Thumbs.dbS
+.DS_Store
+
+# Node (if you add JS later)
+node_modules/
+dist/
+build/
