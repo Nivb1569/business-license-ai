@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <title>Business License Report</title>
+</head>
+<body>
+  <div class="container">
+    <h2>שאלון רישוי עסק</h2>
+    <form id="license-form">
+      <label for="size_sqm">גודל המקום (במ"ר):</label>
+      <input type="number" id="size_sqm" name="size_sqm" required />
+
+      <label for="num_seats">מספר מקומות ישיבה:</label>
+      <input type="number" id="num_seats" name="num_seats" required />
+
+      <label for="serves_meat">האם מגישים בשר?</label>
+      <select id="serves_meat" name="serves_meat">
+        <option value="true">כן</option>
+        <option value="false">לא</option>
+      </select>
+
+      <label for="has_delivery">האם העסק עושה משלוחים?</label>
+      <select id="has_delivery" name="has_delivery">
+        <option value="true">כן</option>
+        <option value="false">לא</option>
+      </select>
+
+      <button type="submit">הפק דוח</button>
+    </form>
+
+    <div id="output">
+      <h3>📄 דוח רגולציה:</h3>
+      <pre id="report-area">...</pre>
+    </div>
+  </div>
+
+  <script>
+    const form = document.getElementById("license-form");
+    const reportArea = document.getElementById("report-area");
+    const numSeats = parseInt(document.getElementById("num_seats").value);
+
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+
+      const size = parseInt(document.getElementById("size_sqm").value);
+      const servesMeat = document.getElementById("serves_meat").value === "true";
+      const hasDelivery = document.getElementById("has_delivery").value === "true";
+
+      const data = {
+        size_sqm: size,
+        serves_meat: servesMeat,
+        has_delivery: hasDelivery,
+        num_seats: numSeats
+      };
+
+      reportArea.textContent = "מייצר דוח... אנא המתן ⏳";
+
+      try {
+        const response = await fetch("http://127.0.0.1:5000/generate-report", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify(data)
+        });
+
+        const result = await response.json();
+        if (result.report) {
+          reportArea.textContent = result.report;
+        } else {
+          reportArea.textContent = "⚠️ שגיאה בקבלת הדוח.";
+        }
+      } catch (err) {
+        reportArea.textContent = "❌ תקלה בשליחה לשרת.";
+      }
+    });
+  </script>
+</body>
+</html>
