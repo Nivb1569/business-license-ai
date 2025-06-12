@@ -36,46 +36,47 @@
     </div>
   </div>
 
-  <script>
-    const form = document.getElementById("license-form");
-    const reportArea = document.getElementById("report-area");
-    const numSeats = parseInt(document.getElementById("num_seats").value);
+<script>
+  const form = document.getElementById("license-form");
+  const reportArea = document.getElementById("report-area");
 
-    form.addEventListener("submit", async (e) => {
-      e.preventDefault();
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
 
-      const size = parseInt(document.getElementById("size_sqm").value);
-      const servesMeat = document.getElementById("serves_meat").value === "true";
-      const hasDelivery = document.getElementById("has_delivery").value === "true";
+    const size = parseInt(document.getElementById("size_sqm").value, 10);
+    const seats = parseInt(document.getElementById("num_seats").value, 10);
+    const servesMeat = document.getElementById("serves_meat").value === "true";
+    const hasDelivery = document.getElementById("has_delivery").value === "true";
 
-      const data = {
-        size_sqm: size,
-        serves_meat: servesMeat,
-        has_delivery: hasDelivery,
-        num_seats: numSeats
-      };
+    const data = {
+      size_sqm: size,
+      num_seats: seats,
+      serves_meat: servesMeat,
+      has_delivery: hasDelivery
+    };
 
-      reportArea.textContent = "מייצר דוח... אנא המתן ⏳";
+    reportArea.textContent = "מייצר דוח... אנא המתן ⏳";
 
-      try {
-        const response = await fetch("http://127.0.0.1:5000/generate-report", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json"
-          },
-          body: JSON.stringify(data)
-        });
+    try {
+      const response = await fetch("http://127.0.0.1:5000/generate-report", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify(data)
+      });
 
-        const result = await response.json();
-        if (result.report) {
-          reportArea.textContent = result.report;
-        } else {
-          reportArea.textContent = "⚠️ שגיאה בקבלת הדוח.";
-        }
-      } catch (err) {
-        reportArea.textContent = "❌ תקלה בשליחה לשרת.";
+      const result = await response.json();
+      if (result.report) {
+        reportArea.textContent = result.report;
+      } else {
+        reportArea.textContent = "⚠️ שגיאה בקבלת הדוח.";
       }
-    });
-  </script>
+    } catch (err) {
+      reportArea.textContent = "❌ תקלה בשליחה לשרת.";
+    }
+  });
+</script>
+
 </body>
 </html>

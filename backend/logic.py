@@ -2,7 +2,7 @@ import json
 import os
 
 # Load rules from JSON
-def load_rules(json_path="data/requirements_health_sample.json"):
+def load_rules(json_path="data/requirements_fire_rescue.json"):
     with open(json_path, "r", encoding="utf-8") as f:
         return json.load(f)
 

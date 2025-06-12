@@ -1,0 +1,902 @@
+[
+  {
+    "id": "fire-001",
+    "category": "Fire and Rescue",
+    "condition": "בית אוכל - מסעדה לרבות משלוח מזון ולרבות הגשת משקאות משכרים לצריכה במקום ושאינו עסק שעיקר פעילותו הגשת משקאות משכרים לצורך צריכה במקום ההגשה כאמור בפריט 4.8, והמיועד ל-50 איש לכל היותר ששטחו המבונה עד 150 מ\"ר לרבות סגירת חורף ועונה על תנאי מסלול \"אישור על יסוד תצהיר\" בהתאם לצו רישוי עסקים (עסקים טעוני רישוי), התשע\"ג-2013",
+    "keywords": [],
+    "min_size_sqm": 150,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-002",
+    "category": "Fire and Rescue",
+    "condition": "הוראות חוק הנוגעות לעניין",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-003",
+    "category": "Fire and Rescue",
+    "condition": "חוק הרשות הארצית לכבאות והצלה, התשע\"ב-2012, והתקנות על פיו.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-004",
+    "category": "Fire and Rescue",
+    "condition": "\"אמצעי בטיחות אש והצלה\" - אמצעים המותקנים בנכסים, דרך קבע או באופן ארעי, והמיועדים, בין השאר, לכל אחד מאלה:",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-005",
+    "category": "Fire and Rescue",
+    "condition": "מניעת דליקות והתפשטותן.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-006",
+    "category": "Fire and Rescue",
+    "condition": "כיבוי דליקות, צמצום נזקיהן והקלת פעולות לכיבוי דליקות.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-007",
+    "category": "Fire and Rescue",
+    "condition": "מילוט וחילוץ לכודים והקלת פעולות למילוטם ולחילוצם.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-008",
+    "category": "Fire and Rescue",
+    "condition": "הצלת חיי אדם ורכוש.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-009",
+    "category": "Fire and Rescue",
+    "condition": "כל צורך הנדרש לביצוע פעולות כיבוי והצלה.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-010",
+    "category": "Fire and Rescue",
+    "condition": "\"גפ\"מ\" - גז פחמימני מעובה כמשמעותו בתקן ישראל ת\"י 158.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-011",
+    "category": "Fire and Rescue",
+    "condition": "\"ציוד כיבוי\" - ציוד, מתקנים וחומרים המשמשים לכיבוי דליקות ומניעתן.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-012",
+    "category": "Fire and Rescue",
+    "condition": "\"תקן ישראלי (ת\"י)\" - תקן ישראלי רשמי או תקן ישראלי כמשמעותו בחוק התקנים.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-013",
+    "category": "Fire and Rescue",
+    "condition": "תחזוקת סידורי בטיחות אש והצלה:",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-014",
+    "category": "Fire and Rescue",
+    "condition": "סידורי בטיחות אש והצלה יימצאו במצב תקין בכל עת, ובעל רישיון העסק יוודא את ביצוען של הבדיקות, הטיפולים וכל פעולה אחרת הנדרשת לצורך כך (להלן - תחזוקת אמצעי כיבוי אש והצלה).",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-015",
+    "category": "Fire and Rescue",
+    "condition": "תחזוקת אמצעי כיבוי אש והצלה תתבצע לפי הוראות התקן הישראלי (ת\"י) התקף והוראות היצרן, ואם ניתנו הוראות נוספות על ידי נותן האישור - בהתאם להוראות אלו.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-016",
+    "category": "Fire and Rescue",
+    "condition": "בעסק יותקנו שלטים שבהם נכתב \"יציאה\" מעל פתחי העסק ובמקומות בהם כיוון היציאה מהעסק לא נראה באופן ברור",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-017",
+    "category": "Fire and Rescue",
+    "condition": "הכיתוב על השלטים יהיה בגוון לבן על גבי רקע ירוק. גובה האותיות יהיה 15 סנטימטרים לפחות ועוביים יהיה 15 מילימטרים לפחות; המרווח בין האותיות יהיה לפחות 1 סנטימטר.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-018",
+    "category": "Fire and Rescue",
+    "condition": "לשלטים תותקן תאורה מרשת החשמל של הבניין וממקור חשמל עצמאי המבוסס על סוללות נטענות המאפשרות זמן תאורה של 60 דקות. גוף התאורה יתאים לתקן ישראלי ת\"י 20, חלק 2.22 מנורות: דרישות מיוחדות - מנורות לתאורת חירום, והוא יופעל בעת הפסקת חשמל או נפילה במתח רשת החשמל.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-019",
+    "category": "Fire and Rescue",
+    "condition": "בעסק יוצבו מטפי כיבוי מסוג אבקה יבשה במשקל של 6 ק''ג, בקרבת לוח החשמל.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-020",
+    "category": "Fire and Rescue",
+    "condition": "בדיקת מטפי הכיבוי ותחזוקתם תעשה לפי האמור בתקן ישראלי ת\"י 129, חלק 1 מטפים מיטלטלים - תחזוקה.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-021",
+    "category": "Fire and Rescue",
+    "condition": "ציוד הכיבוי יהיה נגיש וזמין ויוחזק במצב תקין בכל עת.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-022",
+    "category": "Fire and Rescue",
+    "condition": "מערכת החשמל המתוקנת במקום תעשה בהתאמה לחוק החשמל התשי\"ד-1954 (להלן - חוק החשמל) ותקנותיו.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-023",
+    "category": "Fire and Rescue",
+    "condition": "על גבי לוחות החשמל יותקן שלט פולט אור שבו ייכתב \"חשמל, לא לכבות במים\".",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-024",
+    "category": "Fire and Rescue",
+    "condition": "מערכת החשמל תיבדק אחת לחמש שנים.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-025",
+    "category": "Fire and Rescue",
+    "condition": "מערכת הגפ\"מ המשמשת את העסק תענה לנדרש בתקן ישראלי ת\"י 158, מתקנים לגזים פחמימניים מעובים, המסופקים בתוך מכלים מטלטלים.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-026",
+    "category": "Fire and Rescue",
+    "condition": "מערכת הגפ\"מ, המכשירים והאביזרים לצריכת הגפ\"מ והמנדפים הקיימים בעסק, יתוחזקו במצב תקין, בכל עת.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-027",
+    "category": "Fire and Rescue",
+    "condition": "בעל העסק ישמור בשטח העסק בכל עת את המסמכים המפורטים להלן, ויציגם או ימסרם לאדם המוסמך לבדוק עמידת העסק בדרישות לעיל:",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-028",
+    "category": "Fire and Rescue",
+    "condition": "אישור גורם מוסמך כי מטפי הכיבוי הקיימים בעסק נבדקו בהתאם לתקן ישראלי ת\"י 129 חלק 1, מטפים מיטלטלים - תחזוקה, ונמצאו תקינים.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-029",
+    "category": "Fire and Rescue",
+    "condition": "אישור כי מערכת החשמל המותקנת במקום, נבדקה ונמצאה תקינה בהתאמה לחוק  החשמל התשי\"ד-1954 (להלן - חוק החשמל) ותקנותיו, כולל תאורות החירום המותקנות במקום. על האישור לכלול התייחסות למיקום ותקינות מפסק חשמל ראשי לשעת חירום (במידה וקיים), וטבלה המפרטת את מיקום לוחות החשמל, מספרם ואת גודל האמפר של כל לוח. האישור יינתן על-ידי בעל רישיון לעבודות חשמל לפי חוק החשמל, אשר רשאי ליתן אישור כאמור, בהתאם לסוג רישיונו.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-030",
+    "category": "Fire and Rescue",
+    "condition": "אישור על בדיקת התאמתה ותקינותה של מערכת הגז לדרישות תקן ישראל ת\"י 158. האישור יינתן על-ידי בעל רישיון לעבודת גפ\"מ לפי תקנות הגז (בטיחות ברישוי) (רישוי עסקים עבודות בגפ\"מ) תשס\"ו-2006, אשר רשאי ליתן אישור כאמור, בהתאם לסוג רישיונו (זאת במידה וקיימת מערכת גז בעסק).",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-031",
+    "category": "Fire and Rescue",
+    "condition": "את פרסומי הרשות הארצית לכבאות והצלה כולל תיקיית טפסים אחידים לאישורים ניתן למצוא באתר הרשות הארצית לכבאות והצלה ולהורידם ממנו.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-032",
+    "category": "Fire and Rescue",
+    "condition": "פרק 6 - הרשות הארצית לכבאות והצלה",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-033",
+    "category": "Fire and Rescue",
+    "condition": "בית אוכל - מסעדה לרבות משלוח מזון ולרבות הגשת משקאות משכרים לצריכה במקום ושאינו עסק שעיקר פעילותו הגשת משקאות משכרים לצורך צריכה במקום ההגשה כאמור בפריט 4.8",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-034",
+    "category": "Fire and Rescue",
+    "condition": "הוראות חוק הנוגעות לעניין",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-035",
+    "category": "Fire and Rescue",
+    "condition": "חוק הרשות הארצית לכבאות והצלה, התשע\"ב-2012.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-036",
+    "category": "Fire and Rescue",
+    "condition": "חלק ג' לתוספת השנייה לתקנות התכנון והבנייה (בקשה להיתר, תנאיו ואגרות), התש\"ל-1970.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-037",
+    "category": "Fire and Rescue",
+    "condition": "אגף אש - חלק מבניין המופרד מחלקי הבניין האחרים באמצעות אלמנטים עמידי אש, כמפורט בתקנות התכנון והבנייה.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-038",
+    "category": "Fire and Rescue",
+    "condition": "אמצעי בטיחות אש והצלה - אמצעים המותקנים בנכסים, דרך קבע או באופן ארעי, ומיועדים, בין השאר, לכל אחד מאלה:",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-039",
+    "category": "Fire and Rescue",
+    "condition": "מניעת דליקות והתפשטותן.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-040",
+    "category": "Fire and Rescue",
+    "condition": "כיבוי דליקות, צמצום נזקיהן והקלת פעולות לכיבוי דליקות.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-041",
+    "category": "Fire and Rescue",
+    "condition": "מילוט וחילוץ לכודים והקלת פעולות למילוטם ולחילוצם.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-042",
+    "category": "Fire and Rescue",
+    "condition": "הצלת חיי אדם ורכוש.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-043",
+    "category": "Fire and Rescue",
+    "condition": "כל צורך הנדרש לביצוע פעולות כיבוי והצלה.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-044",
+    "category": "Fire and Rescue",
+    "condition": "גורם מוסמך - אחד מאלה:",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-045",
+    "category": "Fire and Rescue",
+    "condition": "מעבדה שהוסמכה על-ידי הרשות הלאומית להסמכת מעבדות, על פי חוק הרשות הלאומית להסמכת מעבדות, התשנ\"ז-1997, בתחומים ובסוגי בדיקות שלגביהם נדרש האישור.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-046",
+    "category": "Fire and Rescue",
+    "condition": "מי שיש לו תו תקן לתחזוקת מערכת בתחום שלגביו נדרש האישור.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-047",
+    "category": "Fire and Rescue",
+    "condition": "גז או גפ\"מ - גז פחמימני מעובה כמשמעותו בתקן ישראלי ת\"י 158 מתקנים לגזים פחמימניים מעובים (גפ\"מ).",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-048",
+    "category": "Fire and Rescue",
+    "condition": "גישה למוצא בטוח (Exit Access) - חלק מדרך מוצא, לרבות פרוזדורים ומעברים, שתחילתו בכל נקודה שהיא בעסק, וסופו בכניסה למוצא בטוח או מחוץ לעסק או בדלת יציאה חיצונית.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-049",
+    "category": "Fire and Rescue",
+    "condition": "דלת אש - כמשמעותה בתקן ישראלי ת\"י 1212 דלתות אש - עמידות אש.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-050",
+    "category": "Fire and Rescue",
+    "condition": "דרך מוצא (Means of Egress) - נתיב יציאה מעסק הפנוי ממכשולים, והכולל אחד או יותר ממרכיבים אלה:",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-051",
+    "category": "Fire and Rescue",
+    "condition": "גישה למוצא בטוח.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-052",
+    "category": "Fire and Rescue",
+    "condition": "הנדסאי - הנדסאי רשום, כמשמעותו בחוק ההנדסאים והטכנאים המוסמכים, התשע\"ג-2012, אשר עוסק בתחום ובסוג בדיקות שלגביהם נדרש האישור.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-053",
+    "category": "Fire and Rescue",
+    "condition": "חומר לא דליק - כמשמעותו בתקן ישראלי ת\"י 755, סיווג בשרפה של מוצרי בנייה ואלמנטי בניין - שיטות בדיקה וסיווג לפי תוצאות הבדיקה.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-054",
+    "category": "Fire and Rescue",
+    "condition": "חומר ציפוי וגימור - חומר המשמש לציפוי, כיסוי או חיפוי, לרבות: טפטים, ציפוי עץ, שטחים, פרקט, תקרות עץ, בד או PVC.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-055",
+    "category": "Fire and Rescue",
+    "condition": "חוק הרשות הארצית לכבאות והצלה - חוק הרשות הארצית לכבאות והצלה, התשע\"ב-2012.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-056",
+    "category": "Fire and Rescue",
+    "condition": "חוק התקנים - חוק התקנים, התשי\"ג-1953.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-057",
+    "category": "Fire and Rescue",
+    "condition": "ידית בהלה - דלת בעלת מנגנון בהלה המקיים את הדרישות המנויות בסעיף 3.2.1.21(ב) לחלק ג' לתקנות התכנון והבנייה.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-058",
+    "category": "Fire and Rescue",
+    "condition": "יציאה (Exit Discharge) - חלק מדרך מוצא שתחילתו בסופה של גישה למוצא בטוח או בסופו של מוצא בטוח וסיומו ברחוב, בין במישרין ובין דרך שטח פתוח.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-059",
+    "category": "Fire and Rescue",
+    "condition": "מהנדס - מהנדס רשום כמשמעותו בחוק המהנדסים והאדריכלים, התשי\"ח-1958, אשר עוסק בתחום ובסוג בדיקות שלגביהם נדרש האישור.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-060",
+    "category": "Fire and Rescue",
+    "condition": "מוצא בטוח (Exit) - חלק מדרך מוצא, המופרד משאר חלקי העסק על-ידי אלמנטים עמידי אש ודלתות אש, והמוביל אל היציאה או אל מחוץ לעסק.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-061",
+    "category": "Fire and Rescue",
+    "condition": "נותן אישור - עובד רשות הכבאות וההצלה, שהוסמך לכך על ידי השר לביטחון פנים.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-062",
+    "category": "Fire and Rescue",
+    "condition": "ציוד כיבוי - ציוד, מתקנים וחומרים המשמשים לכיבוי דליקות ולמניעתן.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-063",
+    "category": "Fire and Rescue",
+    "condition": "רשות הכבאות והצלה - הרשות הארצית לכבאות והצלה שהוקמה בחוק הרשות הארצית לכבאות והצלה, התשע\"ב-2012.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-064",
+    "category": "Fire and Rescue",
+    "condition": "תעודת בדיקה - תעודת בדיקה בדבר התאמה לתקן שניתנה לפי סעיף 12 לחוק התקנים.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-065",
+    "category": "Fire and Rescue",
+    "condition": "תקן ישראלי (ת\"י) - תקן ישראלי רשמי או תקן ישראלי כמשמעותו בחוק התקנים.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-066",
+    "category": "Fire and Rescue",
+    "condition": "תקנות התכנון והבנייה - תקנות התכנון והבנייה (בקשה להיתר, תנאיו ואגרות), התש\"ל-1970.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-067",
+    "category": "Fire and Rescue",
+    "condition": "לבקשת רישיון עסק או להיתר זמני (להלן - בקשה) יצורפו המסמכים המנויים להלן:",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-068",
+    "category": "Fire and Rescue",
+    "condition": "אפיון רשת המים המזינה את העסק לפי הטופס שבנספח \"בדיקת אופיין רשת מים למבנה על פי נוהל 529\", שנחתם על-ידי אחד מאלה:",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-069",
+    "category": "Fire and Rescue",
+    "condition": "נספח תיאור אמצעים לבטיחות אש, כאמור בתקנה 11א לתקנות התכנון והבנייה. דרישה זו לא תחול על עסק ששטחו הכולל אינו עולה על 100 מ\"ר, ושאינו מיועד להכיל מעל 50 איש או לאחסון חומרים מסוכנים. ניתן להגיש העתק מנספח תיאור אמצעים לבטיחות אש שצורפה לבקשה להיתר בנייה, ובלבד שיצורפו אליו כל אלה:",
+    "keywords": [],
+    "min_size_sqm": 100,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-070",
+    "category": "Fire and Rescue",
+    "condition": "העתק מהיתר הבנייה.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-071",
+    "category": "Fire and Rescue",
+    "condition": "הצהרה בחתימת ידו של המבקש, לפיה לא נעשה שינוי פנימי או שינוי בשימוש של הבניין המשמש את העסק, כולו או מקצתו, מיום הכנת הנספח האמור.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-072",
+    "category": "Fire and Rescue",
+    "condition": "בעל העסק יודיע לנותן האישור על כוונה לניתוק יזום של מערכות כיבוי אש על ידו, וזאת לכל הפחות שבעה ימים לפני היום שבו מתוכנן הניתוק; לעניין סעיף זה, \"מערכת כיבוי אש\" - אחת מהמערכות הבאות, אם מתקיימת לגביה חובה להתקינה על-פי דין: גלאים, מתיזים, גנרטור, מערכת על לחץ ושחרור עשן.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-073",
+    "category": "Fire and Rescue",
+    "condition": "בעל העסק יודיע לנותן האישור באופן מידי בכל פעם שאחת ממערכות כיבוי אש חדלה מלפעול.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-074",
+    "category": "Fire and Rescue",
+    "condition": "בעל העסק יפעיל את העסק תוך נקיטה והתקנת אמצעי בטיחות אש והצלה ההולמים את היקף הפעילות בעסק, רמת הסיכון הנובעת מאופי הפעילות בעסק, ממספר השוהים בו, ממיקומו, משטחו ועל פי כל דין.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-075",
+    "category": "Fire and Rescue",
+    "condition": "אין בדרישות המופיעות במפרט זה כדי לגרוע מהדרישות הקבועות על פי כל דין, לרבות דיני התכנון והבנייה.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-076",
+    "category": "Fire and Rescue",
+    "condition": "מבלי לגרוע מכלליות האמור בסעיפים 6.1.1 ו-6.5.2, אין בהוראות מפרט זה כדי לגרוע מהדרישות הקבועות בתקנות התכנון והבנייה לצורך קבלת היתר בנייה, כפי שחלו במועד שבו הוגשה הבקשה להיתר בנייה, ובכל מקום שבו ישנה התייחסות במפרט לדרישות הנוגעות לבטיחות אש בעסק, הן תבואנה בנוסף לדרישות תקנות אלו.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-077",
+    "category": "Fire and Rescue",
+    "condition": "הפניות במפרט לתקן ישראלי מחייבות כי תתקיים התאמה מלאה בין מבנה העסק, תכולתו ואמצעי בטיחות אש והצלה בו, ובין דרישות הקבועות בתקן, ובעל העסק, או מי מטעמו שמונה לעסוק בתחום זה, מחויב להכיר את דרישות התקן, ולוודא כי תתקיים התאמה מלאה של העסק כנדרש.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-078",
+    "category": "Fire and Rescue",
+    "condition": "הדרישות המופיעות במפרט תקוימנה לכל אורך תקופת פעילותו של העסק, ובעל העסק אחראי לכך שלא יתבצעו כל שינויים שהם בעסק העומדים בסתירה להוראות המפרט ולתנאי הרישיון.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-079",
+    "category": "Fire and Rescue",
+    "condition": "תחזוקת אמצעי בטיחות אש והצלה:",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-080",
+    "category": "Fire and Rescue",
+    "condition": "אמצעי בטיחות אש והצלה יימצאו במצב תקין בכל עת, ובעל רישיון העסק יוודא את ביצוען של הבדיקות, הטיפולים וכל פעולה אחרת הנדרשת לצורך כך (להלן - תחזוקת אמצעי כיבוי אש והצלה).",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-081",
+    "category": "Fire and Rescue",
+    "condition": "תחזוקת אמצעי כיבוי אש והצלה תתבצע לפי הוראות התקן הישראלי התקף והוראות היצרן, ואם ניתנו הוראות נוספות על-ידי נותן האישור, בהתאם להוראות אלו.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-082",
+    "category": "Fire and Rescue",
+    "condition": "בעל העסק יבטיח את קיומן של דרכי גישה לעסק לצורך פעילות כיבוי והצלה.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-083",
+    "category": "Fire and Rescue",
+    "condition": "הפרדות ועמידות אש",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-084",
+    "category": "Fire and Rescue",
+    "condition": "בעסק תהיה הפרדת אש ועשן בין שטח המשמש לאחסנה לבין שאר חלקי העסק, וכן בין העסק לשאר חלקי הבניין האחרים. ההפרדה האמורה תבוצע באמצעות:",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-085",
+    "category": "Fire and Rescue",
+    "condition": "קירות בעלי עמידות אש למשך שעתיים לפחות. הקיר יהיה בנוי מלבנים או מבלוקים או מבטון.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-086",
+    "category": "Fire and Rescue",
+    "condition": "פתחי כניסה והיציאה בקירות בעלי עמידות אש יסגרו על ידי דלת או חלון בעלי עמידות אש שמשכה 30 דקות לפחות וכשל תחילי ויציבות שמשכו 90 דקות לפחות ושעומדים בתקן ישראלי ת\"י 1212 דלתות אש - עמידות אש.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-087",
+    "category": "Fire and Rescue",
+    "condition": "חומרי הציפוי והגימור שבהם ייעשה שימוש במבנה או במבנים, לרבות מבנים יבילים המשמשים את העסק יעמדו בתקן ישראלי ת\"י 921 השימוש בחומרי בניה לפי תגובותיהם בשריפה. בדיקת אי דליקותם וסיווגם של החומרים תיערך בהתאם לתקן ישראלי ת\"י 755 סיווג בשרפה של מוצרי בנייה ואלמנטי בניין - שיטות בדיקה וסיווג לפי תוצאות הבדיקה. לעניין סעיף זה, שימוש בחומרי ציפוי וגימור כולל הן שימוש הן פנימי והן שימוש חיצוני.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-088",
+    "category": "Fire and Rescue",
+    "condition": "בדלת המשמשת ליציאה מחלק מהעסק או מקומה בעסק המיועדים להכיל למעלה מ-100 איש תותקן ידית בהלה.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-089",
+    "category": "Fire and Rescue",
+    "condition": "בעסק המיועד להכיל עד 50 איש, יהיה פתח יציאה אחד ברוחב של 0.9 מ' נטו לפחות.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-090",
+    "category": "Fire and Rescue",
+    "condition": "בעסק המיועד להכיל למעלה מ-50 איש אך לא יותר מ-500 איש יהיו לפחות שני פתחי יציאה ברוחב של 1.1 מ' נטו כל אחד, וכיוון הפתיחה של הדלת יהיה כלפי כיוון המילוט.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-091",
+    "category": "Fire and Rescue",
+    "condition": "בעסק המיועד להכיל למעלה מ-500 איש אך לא יותר מ-1,000 איש יהיו לפחות 3 פתחים ברוחב של 1.1 מ' נטו כל אחד, וכיוון הפתיחה של הדלת יהיה כלפי כיוון המילוט.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-092",
+    "category": "Fire and Rescue",
+    "condition": "בעסק המיועד לאחסון חומרים מסוכנים, לייצורם או לשימוש בהם וגודלו עולה על20  מ\"ר יהיו לפחות שני פתחי יציאה ברוחב של 0.9 מ' נטו לפחות כל אחד, כאשר דלת אחת לפחות תיפתח ישירות אל החוץ.",
+    "keywords": [],
+    "min_size_sqm": 20,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-093",
+    "category": "Fire and Rescue",
+    "condition": "דרכי המוצא, לרבות פתחי היציאה, יהיו פנויים מכל מכשול בכל עת. אם הותקן מנעול על דלת בדרך המוצא, יהיה ניתן לפתוח את הדלת מכיוון המילוט בלא מפתח נשלף.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-094",
+    "category": "Fire and Rescue",
+    "condition": "בדרכי המוצא בעסק יותקן שילוט וסימון, כמפורט בסימן י\"ח לפרק ב' לתוספת השנייה לתקנות התכנון והבניה.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-095",
+    "category": "Fire and Rescue",
+    "condition": "בעסק יותקנו שלטים פולטי אור כמפורט מטה:",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-096",
+    "category": "Fire and Rescue",
+    "condition": "\"חשמל, לא לכבות במים\" - על גבי לוחות חשמל.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-097",
+    "category": "Fire and Rescue",
+    "condition": "\"מפסק זרם ראשי\" - בסמוך למפסק במקום בולט ונגיש.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-098",
+    "category": "Fire and Rescue",
+    "condition": "\"עמדת כיבוי אש\".",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-099",
+    "category": "Fire and Rescue",
+    "condition": "\"ברזי שריפה\" - בסמוך לברז.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  },
+  {
+    "id": "fire-100",
+    "category": "Fire and Rescue",
+    "condition": "\"ברזי הסנקה לעמדות\" - בסמוך לברז.",
+    "keywords": [],
+    "min_size_sqm": null,
+    "min_seats": null,
+    "requires_meat": null
+  }
+]
